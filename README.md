@@ -22,7 +22,7 @@
 # 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/u-s-muhammad-muzzamil/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:muzzammilus@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://github.com/muzmilus"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
